@@ -1,0 +1,6 @@
+autogen==0.1.0
+replicate==1.2.3
+requests==2.26.0
+http.client
+json
+base64
