@@ -11,8 +11,8 @@ LLAVA/STABLE_DIFFUSIO/AUTO_GEN
 5. Process repeat untill Image analyzer is happy with image
 
 *****
-
-![](europeana-5TK1F5VfdIk-unsplash.jpg)
+![](alejandro-luengo-8T4Iioq6d6c-unsplash.jpg)
+![](Capture.PNG)
 
 ## 🌐 How to run?
 ### STEPS:
