@@ -3,7 +3,7 @@ LLAVA/STABLE_DIFFUSIO/AUTO_GEN
 
 
 *****
-** 🌍 AI Image generation**
+**🌍 AI Image generation**
 1. Write prompt
 2. text-to-image prompt engineer agent will write a prompt
 3. stable diffusion will create an image
