@@ -12,7 +12,7 @@ LLAVA/STABLE_DIFFUSIO/AUTO_GEN
 
 *****
 ![](alejandro-luengo-8T4Iioq6d6c-unsplash.jpg)
-![](Capture.PNG)
+![](Capture01.PNG)
 
 ## 🌐 How to run?
 ### STEPS:
