@@ -1,9 +1,9 @@
-# Mutli_Model_Vision_Agents
+# 🧪 Mutli_Model_Vision_Agents
 LLAVA/STABLE_DIFFUSIO/AUTO_GEN
 
 
 *****
-**AI Image generation**
+** 🌍 AI Image generation**
 1. Write prompt
 2. text-to-image prompt engineer agent will write a prompt
 3. stable diffusion will create an image
@@ -12,12 +12,9 @@ LLAVA/STABLE_DIFFUSIO/AUTO_GEN
 
 *****
 
-![](alejandro-luengo-8T4Iioq6d6c-unsplash.jpg)
+![](europeana-5TK1F5VfdIk-unsplash.jpg)
 
-![](Capture.PNG)
-
-
-# How to run?
+## 🌐 How to run?
 ### STEPS:
 
 Clone the repository
@@ -61,4 +58,3 @@ open up you local host and port
 2. Push the Docker image to Container Registry
 3. Launch the Web App Server in Azure 
 4. Pull the Docker image from the container registry to Web App server and run 
-
