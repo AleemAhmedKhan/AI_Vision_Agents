@@ -1,4 +1,4 @@
-D:\01-CS\01_DSP\09_AI\02_Mutli_Model_Vision_Agents\vision-agent-with-llava-main\alejandro-luengo-8T4Iioq6d6c-unsplash.jpg
-D:\01-CS\01_DSP\09_AI\02_Mutli_Model_Vision_Agents\vision-agent-with-llava-main\Capture.PNG
-D:\01-CS\01_DSP\09_AI\02_Mutli_Model_Vision_Agents\vision-agent-with-llava-main\Capture01.PNG
-D:\01-CS\01_DSP\09_AI\02_Mutli_Model_Vision_Agents\vision-agent-with-llava-main\europeana-5TK1F5VfdIk-unsplash.jpg
+git rm --cached "D:/01-CS/01_DSP/09_AI/02_Mutli_Model_Vision_Agents/vision-agent-with-llava-main/alejandro-luengo-8T4Iioq6d6c-unsplash.jpg"
+git rm --cached "D:/01-CS/01_DSP/09_AI/02_Mutli_Model_Vision_Agents/vision-agent-with-llava-main/Capture.PNG"
+git rm --cached "D:/01-CS/01_DSP/09_AI/02_Mutli_Model_Vision_Agents/vision-agent-with-llava-main/Capture01.PNG"
+git rm --cached "D:/01-CS/01_DSP/09_AI/02_Mutli_Model_Vision_Agents/vision-agent-with-llava-main/europeana-5TK1F5VfdIk-unsplash.jpg"
